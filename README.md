@@ -13,4 +13,9 @@ Para iniciar el proyecto vamos crearnos una cuenta en github. A continuacion la 
 
 - Daniel Guzman, dguzman-ort
 - Fernando Pallas, 9-12-2018
-
+- Jerónimo Sánchez Peruga, jsanchezperuga
+- Noelia Garro, Noelia-Garro
+- Tom Maenhout, timaenho
+- Pablo Maurig, pablomaurig
+- Mariano Brusca, marianobrusca98
+>>>>>>> 4f570151289a6ebd46028a23b74f5ee0c980b07f
