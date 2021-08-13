@@ -13,3 +13,8 @@ Para iniciar el proyecto vamos crearnos una cuenta en github. A continuacion la 
 
 - Daniel Guzman, dguzman-ort
 - Frank García, 00frank
+- Jerónimo Sánchez Peruga, jsanchezperuga
+- Noelia Garro, Noelia-Garro
+- Tom Maenhout, timaenho
+- Pablo Maurig, pablomaurig
+- Mariano Brusca, marianobrusca98
