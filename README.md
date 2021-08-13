@@ -13,3 +13,5 @@ Para iniciar el proyecto vamos crearnos una cuenta en github. A continuacion la 
 
 - Daniel Guzman, dguzman-ort
 - Felicitas Merlino, FeliMerlino
+- Pablo Maurig, pablomaurig
+
