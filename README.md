@@ -18,3 +18,4 @@ Para iniciar el proyecto vamos crearnos una cuenta en github. A continuacion la 
 - Tom Maenhout, timaenho
 - Pablo Maurig, pablomaurig
 - Mariano Brusca, marianobrusca98
+- Jhonny Figuera, jhonnyfiguera
