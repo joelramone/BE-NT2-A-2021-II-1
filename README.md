@@ -12,6 +12,7 @@ Para iniciar el proyecto vamos crearnos una cuenta en github. A continuacion la 
 ## Listado de participantes:
 
 - Daniel Guzman, dguzman-ort
+- Mariano Brusca, marianobrusca98
 - Matias Imoff, mcimoff
 - Juan Pablo Ruax Debruijm, juandebruijn
 - Luciano Di Tomaso, dtlucho
