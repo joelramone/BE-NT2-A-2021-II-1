@@ -1,0 +1,17 @@
+node_modules/
+.expo/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+*.plist
+client_secret_572246048006-bcum3s7om9f5m4l6d73tjdijr7jr1t6d.apps.googleusercontent.com.json
+
+# macOS
+.DS_Store
