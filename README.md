@@ -34,6 +34,7 @@ Para iniciar el proyecto vamos crearnos una cuenta en github. A continuacion la 
 - Shanon Samora, ShanonSamora
 - Mauro Pavesi, pavmaup
 - Mariano Brusca, marianobrusca98
+- Jhonny Figuera, jhonnyfiguera
 - Dario Piazza, dpiazza76
 - Daisuke Miyashiro , daichanmiyashiro
 - Tomás Loughry, t-loughry
