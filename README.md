@@ -12,6 +12,7 @@ Para iniciar el proyecto vamos crearnos una cuenta en github. A continuacion la 
 ## Listado de participantes:
 
 - Daniel Guzman, dguzman-ort
+- Felicitas Merlino, FeliMerlino
 - Mariano Brusca, marianobrusca98
 - Matias Imoff, mcimoff
 - Juan Pablo Ruax Debruijm, juandebruijn
