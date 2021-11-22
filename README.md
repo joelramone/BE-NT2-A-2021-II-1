@@ -13,4 +13,28 @@ Para iniciar el proyecto vamos crearnos una cuenta en github. A continuacion la 
 
 - Daniel Guzman, dguzman-ort
 - Sebas Velazquez, SebasMV
-
+- Joaquin Soriano, joaquin-soriano
+- Emiliano Gonzalez, gonzlem
+- Gustavo Caradonna, gustavocaradonna
+- Debora Kigelman, dkigelman
+- Patricia Rodríguez Montero, patriciarodriguez87
+- Fernando Pallas, 9-12-2018
+- Felicitas Merlino, FeliMerlino
+- Mariano Brusca, marianobrusca98
+- Matias Imoff, mcimoff
+- Juan Pablo Ruax Debruijm, juandebruijn
+- Luciano Di Tomaso, dtlucho
+- Leonardo Fernandez, Leo-Fer
+- Frank García, 00frank
+- Ezequiel Micha, ezequielmicha
+- Jerónimo Sánchez Peruga, jsanchezperuga
+- Noelia Garro, Noelia-Garro
+- Tom Maenhout, timaenho
+- Pablo Maurig, pablomaurig
+- Shanon Samora, ShanonSamora
+- Mauro Pavesi, pavmaup
+- Mariano Brusca, marianobrusca98
+- Dario Piazza, dpiazza76
+- Daisuke Miyashiro , daichanmiyashiro
+- Tomás Loughry, t-loughry
+- Nicolaiev Brito, nicolaievpustelnik
