@@ -25,5 +25,6 @@ Para iniciar el proyecto vamos crearnos una cuenta en github. A continuacion la 
 - Noelia Garro, Noelia-Garro
 - Tom Maenhout, timaenho
 - Pablo Maurig, pablomaurig
+- Shanon Samora, ShanonSamora
 - Mauro Pavesi, pavmaup
 - Mariano Brusca, marianobrusca98
