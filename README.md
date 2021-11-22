@@ -12,6 +12,7 @@ Para iniciar el proyecto vamos crearnos una cuenta en github. A continuacion la 
 ## Listado de participantes:
 
 - Daniel Guzman, dguzman-ort
+- Joaquin Soriano, joaquin-soriano
 - Emiliano Gonzalez, gonzlem
 - Gustavo Caradonna, gustavocaradonna
 - Debora Kigelman, dkigelman
